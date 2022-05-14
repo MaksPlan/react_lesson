@@ -1,9 +1,8 @@
 import React from 'react';
 import './assets/scss/normalize.scss';
-import MainPage from './components/MainPage';
 
 const App = () => {
-  return <MainPage />;
+  return <div>hello world</div>;
 };
 
 export default App;
